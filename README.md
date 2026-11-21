@@ -6,6 +6,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-PlaszymeGNN-black?logo=github)](https://github.com/Tsutayaaa/Plaszyme)
 [![iGEM GitLab](https://img.shields.io/badge/GitLab-XJTLU--AI--China-orange?logo=gitlab)](https://gitlab.igem.org/2025/software-tools/xjtlu-ai-china)
+
+<!-- Temporary celebration: iGEM 2026 -->
+## Congratulations to XJTLU-China — iGEM 2026 Best Model
+
+The **XJTLU-AI-China / Plaszyme team** warmly congratulates **XJTLU-China** on receiving the **Best Model award at iGEM 2026**. We are delighted to celebrate this achievement with our fellow iGEM team.
+
+Their **dogmaOS** project explores how synonymous codon design and host tRNA-pool engineering can shape translation rhythm to support protein folding and improve soluble recombinant protein expression in *Escherichia coli*. Its modeling framework brings together protein structure, evolutionary evidence and ribosome-traffic analysis. The accompanying **catmaOS** software provides a local browser workspace for translation-rhythm analysis and comparison of synonymous coding-sequence choices.
+
+We commend the team's work connecting computational modeling with experimental design and wish them continued success.
+
+[Project Wiki](https://2026.igem.wiki/xjtlu-china/) · [Modeling Framework](https://2026.igem.wiki/xjtlu-china/model) · [catmaOS Software & Source](https://gitlab.igem.org/2026/software/xjtlu-china/software)
+<!-- End temporary celebration -->
+
 ## **Overview**
 
 ---
